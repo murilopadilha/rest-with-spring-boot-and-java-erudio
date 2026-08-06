@@ -1,6 +1,4 @@
-package br.com.erudio.rest_with_spring_boot_and_java_erudio.data.dto;
-
-import jakarta.persistence.*;
+package br.com.erudio.rest_with_spring_boot_and_java_erudio.data.dto.v1;
 
 import java.io.Serializable;
 import java.util.Objects;

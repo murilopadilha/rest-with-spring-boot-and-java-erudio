@@ -1,6 +1,6 @@
 package br.com.erudio.rest_with_spring_boot_and_java_erudio.unitetests.mapper.mocks;
 
-import br.com.erudio.rest_with_spring_boot_and_java_erudio.data.dto.PersonDTO;
+import br.com.erudio.rest_with_spring_boot_and_java_erudio.data.dto.v1.PersonDTO;
 import br.com.erudio.rest_with_spring_boot_and_java_erudio.model.Person;
 
 import java.util.ArrayList;
